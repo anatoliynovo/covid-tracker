@@ -1,1 +1,3 @@
-# covid-tracker
+# Covid-Tracker
+
+Tracking realtime data 
