@@ -1,3 +1,3 @@
 ## Covid-Tracker
 
-The demo of this project is [avaiable here]().
+The demo of this project is [avaiable here](https://sars-covid-tracker.netlify.app/).
